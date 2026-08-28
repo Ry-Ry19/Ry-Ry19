@@ -1,15 +1,6 @@
 <div align="center">
 
-<br />
-<div align="center">
-  <h1 style="font-size: 54px; font-weight: 800; background: linear-gradient(135deg, #6C63FF 0%, #00C4CC 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Ryan Recososa
-  </h1>
-  <p style="font-size: 22px; color: #a0aec0; letter-spacing: 1px; margin-top: -10px;">
-    Web Developer &bull; Full-Stack and Interfaces
-  </p>
-</div>
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C4CC&height=180&section=header&text=Hey,%20I'm%20Ryan%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=I+build+for+the+web+%3A%3E;Next.js+%2B+Supabase+%2B+FastAPI;Clean+UI.+Solid+Backend.+No+Fluff.;Open+to+freelance+%26+collabs" alt="Typing SVG"/>
