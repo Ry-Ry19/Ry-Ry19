@@ -1,0 +1,15 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1200 200" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00C4CC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" rx="15" fill="url(#grad)" />
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="bold" font-size="48" fill="#ffffff">
+    Ryan Recososa
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" fill="#e0e0e0" letter-spacing="1.5">
+    Web Developer | Full-Stack &amp; Interfaces
+  </text>
+</svg>
